@@ -1,0 +1,10 @@
+Z:\projekty bal\OriginalChessClock\OriginalChessClock\bin\Debug\OriginalChessClock.exe.config
+Z:\projekty bal\OriginalChessClock\OriginalChessClock\bin\Debug\OriginalChessClock.exe
+Z:\projekty bal\OriginalChessClock\OriginalChessClock\bin\Debug\OriginalChessClock.pdb
+Z:\projekty bal\OriginalChessClock\OriginalChessClock\obj\Debug\OriginalChessClock.csprojAssemblyReference.cache
+Z:\projekty bal\OriginalChessClock\OriginalChessClock\obj\Debug\OriginalChessClock.Form1.resources
+Z:\projekty bal\OriginalChessClock\OriginalChessClock\obj\Debug\OriginalChessClock.Properties.Resources.resources
+Z:\projekty bal\OriginalChessClock\OriginalChessClock\obj\Debug\OriginalChessClock.csproj.GenerateResource.cache
+Z:\projekty bal\OriginalChessClock\OriginalChessClock\obj\Debug\OriginalChessClock.csproj.CoreCompileInputs.cache
+Z:\projekty bal\OriginalChessClock\OriginalChessClock\obj\Debug\OriginalChessClock.exe
+Z:\projekty bal\OriginalChessClock\OriginalChessClock\obj\Debug\OriginalChessClock.pdb
